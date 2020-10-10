@@ -170,3 +170,7 @@ __declspec(dllexport) int cltSocketDestory2(void **handle)
     return ret;
 }
 // --------------------第二套api接口-----End----------------------//
+
+
+// 啦啦啦林锐锋修改
+// happy every day

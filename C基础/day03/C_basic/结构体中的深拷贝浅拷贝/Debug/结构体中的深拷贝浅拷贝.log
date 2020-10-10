@@ -1,0 +1,4 @@
+﻿  结构体二级指针.c
+d:\传智c++\复习\c基础\day03\c_basic\结构体中的深拷贝浅拷贝\结构体二级指针.c(32): warning C4716: “PrintTeacher”: 必须返回一个值
+d:\传智c++\复习\c基础\day03\c_basic\结构体中的深拷贝浅拷贝\结构体二级指针.c(60): warning C4715: “FreeTeacher01”: 不是所有的控件路径都返回值
+  结构体中的深拷贝浅拷贝.vcxproj -> D:\传智C++\复习\C基础\day03\C_basic\Debug\结构体中的深拷贝浅拷贝.exe

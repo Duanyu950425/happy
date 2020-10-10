@@ -1,0 +1,5 @@
+﻿  Four_memory.c
+d:\传智c++\复习\c基础\day03\c_basic\four_memory\four_memory.c(45): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+d:\传智c++\复习\c基础\day03\c_basic\four_memory\four_memory.c(46): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+d:\传智c++\复习\c基础\day03\c_basic\four_memory\four_memory.c(23): warning C4172: 返回局部变量或临时变量的地址: buf
+  Four_Memory.vcxproj -> D:\传智C++\复习\C基础\day03\C_basic\Debug\Four_Memory.exe

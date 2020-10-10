@@ -1,0 +1,4 @@
+﻿  pointer.c
+d:\传智c++\复习\c基础\day03\c_basic\pointer\pointer.c(56): warning C4018: “<”: 有符号/无符号不匹配
+d:\传智c++\复习\c基础\day03\c_basic\pointer\pointer.c(63): warning C4018: “<”: 有符号/无符号不匹配
+  pointer.vcxproj -> D:\传智C++\复习\C基础\day03\C_basic\Debug\pointer.exe

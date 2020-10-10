@@ -1,0 +1,4 @@
+﻿  socketclientdy.c
+d:\传智c++\复习\c基础\动态库\socketclientdy\socketclientdy.c(74): warning C4047: “!=”:“int”与“void *”的间接级别不同
+    正在创建库 D:\传智C++\复习\C基础\动态库\Debug\socketclientdy.lib 和对象 D:\传智C++\复习\C基础\动态库\Debug\socketclientdy.exp
+  socketclientdy.vcxproj -> D:\传智C++\复习\C基础\动态库\Debug\socketclientdy.dll

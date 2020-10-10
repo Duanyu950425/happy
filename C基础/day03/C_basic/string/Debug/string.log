@@ -1,0 +1,6 @@
+﻿  string.c
+d:\传智c++\复习\c基础\day03\c_basic\string\string.c(41): warning C4013: “isspace”未定义；假设外部返回 int
+d:\传智c++\复习\c基础\day03\c_basic\string\string.c(57): warning C4013: “trimSpace”未定义；假设外部返回 int
+d:\传智c++\复习\c基础\day03\c_basic\string\string.c(137): warning C4098: “main”:“void”函数返回值
+d:\传智c++\复习\c基础\day03\c_basic\string\string.c(141): warning C4098: “main”:“void”函数返回值
+  string.vcxproj -> D:\传智C++\复习\C基础\day03\C_basic\Debug\string.exe

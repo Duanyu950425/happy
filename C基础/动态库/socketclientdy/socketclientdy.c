@@ -170,3 +170,6 @@ __declspec(dllexport) int cltSocketDestory2(void **handle)
     return ret;
 }
 // --------------------第二套api接口-----End----------------------//
+
+
+// 段雨修改  2020.10.10  22:00

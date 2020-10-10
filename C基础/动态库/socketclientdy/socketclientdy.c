@@ -173,3 +173,7 @@ __declspec(dllexport) int cltSocketDestory2(void **handle)
 
 
 // ¶ÎÓêĞŞ¸Ä  2020.10.10  22:00
+
+
+// À²À²À²ÁÖÈñ·æĞŞ¸Ä
+// happy every day
